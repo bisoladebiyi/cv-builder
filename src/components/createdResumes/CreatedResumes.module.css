@@ -1,0 +1,10 @@
+.container{
+    width: 100%;
+    height: 50%;
+    display: grid;
+    place-items: center;
+}
+.message{
+    font-size: 14px;
+    color: #343a40;
+}
